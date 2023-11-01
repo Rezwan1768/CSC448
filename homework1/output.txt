@@ -1,0 +1,98 @@
+3:	Prime
+4:	Not prime
+5:	Prime
+6:	Not prime
+7:	Prime
+8:	Not prime
+9:	Not prime
+10:	Not prime
+11:	Prime
+12:	Not prime
+13:	Prime
+14:	Not prime
+15:	Not prime
+16:	Not prime
+17:	Prime
+18:	Not prime
+19:	Prime
+20:	Not prime
+21:	Not prime
+22:	Not prime
+23:	Prime
+24:	Not prime
+25:	Not prime
+26:	Not prime
+27:	Not prime
+28:	Not prime
+29:	Prime
+30:	Not prime
+31:	Prime
+32:	Not prime
+33:	Not prime
+34:	Not prime
+35:	Not prime
+36:	Not prime
+37:	Prime
+38:	Not prime
+39:	Not prime
+40:	Not prime
+41:	Prime
+42:	Not prime
+43:	Prime
+44:	Not prime
+45:	Not prime
+46:	Not prime
+47:	Prime
+48:	Not prime
+49:	Not prime
+50:	Not prime
+51:	Not prime
+52:	Not prime
+53:	Prime
+54:	Not prime
+55:	Not prime
+56:	Not prime
+57:	Not prime
+58:	Not prime
+59:	Prime
+60:	Not prime
+61:	Prime
+62:	Not prime
+63:	Not prime
+64:	Not prime
+65:	Not prime
+66:	Not prime
+67:	Prime
+68:	Not prime
+69:	Not prime
+70:	Not prime
+71:	Prime
+72:	Not prime
+73:	Prime
+74:	Not prime
+75:	Not prime
+76:	Not prime
+77:	Not prime
+78:	Not prime
+79:	Prime
+80:	Not prime
+81:	Not prime
+82:	Not prime
+83:	Prime
+84:	Not prime
+85:	Not prime
+86:	Not prime
+87:	Not prime
+88:	Not prime
+89:	Prime
+90:	Not prime
+91:	Not prime
+92:	Not prime
+93:	Not prime
+94:	Not prime
+95:	Not prime
+96:	Not prime
+97:	Prime
+98:	Not prime
+99:	Not prime
+100:	Not prime
